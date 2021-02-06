@@ -1,5 +1,5 @@
-# SE186X GitHub Lab
-## The Goals
+## SE186X GitHub Lab
+### The Goals
 
 1. Learn fundamentals of Git and GitHub
 
@@ -7,7 +7,7 @@
 
 3. Get comfortable with making changes to repositories using Git
 
-## The Tasks
+### The Tasks
 
 1. Create file “test.txt” locally, make changes, and push to GitHub (3 points)
 
