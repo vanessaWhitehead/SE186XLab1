@@ -1,4 +1,4 @@
-# SE186X Lab1
+# SE186X GitHub Lab
 ## The Goals
 
 1. Learn fundamentals of Git and GitHub
